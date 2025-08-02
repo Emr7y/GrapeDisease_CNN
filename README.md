@@ -17,8 +17,8 @@ grape_leaf_cnn/
 ├── app.py                 # Streamlit App zur Vorhersage
 ├── cnn_model.keras        # Trainiertes CNN-Modell
 ├── requirements.txt       # Abhängigkeiten für Streamlit/Hugging Face
-├── README.md              # Dieses Dokument
-└── example_leaf.jpg       # Optionales Testbild
+└── README.md              # Dieses Dokument
+
 ```
 
 ---
