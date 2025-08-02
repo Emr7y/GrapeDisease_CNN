@@ -15,7 +15,7 @@ Die App erlaubt es, ein Foto eines Weinblattes hochzuladen und automatisch einer
 ```
 grape_leaf_cnn/
 ├── app.py                 # Streamlit App zur Vorhersage
-├── cnn_model.keras        # Trainiertes CNN-Modell
+├── cnn_model.keras        # Trainiertes CNN-Modell (is over den 25MB)
 ├── requirements.txt       # Abhängigkeiten für Streamlit/Hugging Face
 └── README.md              # Dieses Dokument
 
